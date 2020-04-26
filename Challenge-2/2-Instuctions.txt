@@ -1,0 +1,10 @@
+Function 2 - Summon Captain Planet
+
+1. This function should accept an array of planeteer calls, like this:
+
+  planeteerCalls = ["earth", "wind", "fire", "water", "heart"]
+
+2. It should then convert each element to uppercase and add an exclamation point at the end. The return value of this method should be an array, in this example:
+
+  summonCaptainPlanet(planeteerCalls)
+    // Returns ["EARTH!", "WIND!", "FIRE!", "WATER!", "HEART!"] 

@@ -1,0 +1,13 @@
+Function 3 - Long Planeteer Calls
+
+1. The longPlaneteerCalls method should accept an array of calls. The function should tell us if any of the calls are longer than four characters. For example:
+
+  shortWords = ["wind", "fire"]
+  longPlaneteerCalls(short_words)
+  #=> false
+ 
+  assortedWords = ["earth", "wind", "heart", "fire"]
+  longPlaneteerCalls(assorted_words)
+  #=> true
+
+2. Notice the return value of this method is either false or true, depending on the array it was given as an argument.

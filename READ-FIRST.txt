@@ -1,0 +1,23 @@
+Before Starting install all Dependencies 
+
+Run these commands in your terminal 
+
+1. npm install
+
+Make sure in your package.json file has "test" set to "jest"
+  It should look like this: 
+
+  "scripts": {
+    "test": "jest"
+  },
+
+To run your test go into the indiviual Challenge directory and enter into your terminal
+                  ONLY ENTER THESE
+Challenge 1.      npm test dwarve.test.js
+Challenge 2.      npm test summonCaptainPlanet.test.js
+Challenge 3.      npm test longPlaneteerCalls.test.js
+Challenge 4.      npm test findTheCheese.test.js
+Challenge 5.      npm test whoIsASoftwareEngineer.test.js
+
+Run your test before creating your function, it should fail automatically until you write your function out
+

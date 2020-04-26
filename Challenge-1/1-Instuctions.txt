@@ -1,0 +1,9 @@
+Function 1 - Dwarf Roll Call
+
+1. This function should accept an array of dwarf names, for instance:
+
+  ["Doc", "Dopey", "Bashful", "Grumpy"]
+
+2. It should then return a string with the numbered dwarves. The string should look like this:
+
+  "1. Doc 2. Dopey 3. Bashful 4. Grumpy "

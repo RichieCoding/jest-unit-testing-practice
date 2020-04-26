@@ -1,0 +1,41 @@
+THIS IS GOING TO BE THE HARDEST ONE EDDY, BUT YOU GOT THIS!!!!!!
+
+1. You're going to create a function 'whoIsASoftwareEngineer' that takes in an obj as an argument and you're looking for your friends that are software engineers. If they are engineers then you should store their names in an array.
+
+2. OUTPUT should look like this, an array with strings
+
+  ["firstPerson", "secondPerson", "thirdPerson"]
+
+3. If there are no engineers in the group then I want you to return 
+
+  "Eddy will become one soon!
+
+4. This is the obj you will be working with
+
+const friends = {
+  0: {
+    name: 'Josh',
+    age: 27,
+    weight: 302,
+    engineer: false,
+  },
+  1: {
+    name: 'Rich',
+    age: 28,
+    weight: 160,
+    engineer: true
+  }, 
+  2: {
+    name: 'Eddy',
+    age: 28,
+    weight: 200,
+    engineer: true
+  },
+  3: {
+    name: 'Tim',
+    age: 29,
+    weight: 120,
+    engineer: false
+  }
+}
+

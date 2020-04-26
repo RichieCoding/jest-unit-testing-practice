@@ -1,0 +1,17 @@
+Method 4 - Find the Cheese
+
+1. The "findTheCheese" function should accept an array of strings. It should then look through these strings and return the first string that is a type of cheese. The types of cheese that appear are cheddar, gouda, and camembert.
+
+  snacks = ["crackers", "gouda", "thyme"]
+  findTheCheese(snacks)
+  #=> "gouda"
+  
+  soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
+  findTheCheese(soup)
+  #=> "cheddar"
+
+2. If, sadly, a list of ingredients does not include cheese, return "no cheese!":
+
+  ingredients = ["garlic", "rosemary", "bread"]
+  findTheCheese(ingredients)
+  #=> "no cheese!"
